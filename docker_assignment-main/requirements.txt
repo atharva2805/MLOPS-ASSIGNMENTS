@@ -1,0 +1,6 @@
+pandas
+fastapi
+pydantic
+scikit-learn
+uvicorn
+nest_asyncio
